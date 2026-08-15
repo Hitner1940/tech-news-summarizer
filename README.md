@@ -9,10 +9,9 @@
 
 | 共識熱度 | 繁體中文技術標題 | English Title | 原文來源 |
 | :---: | :--- | :--- | :---: |
-| 🔥 `99/100` | **LongEarth-R1：面向長時序地球觀測推理的視覺-語言模型基準測試與對齊方法** | LongEarth-R1: Benchmarking and Aligning Vision-Language Models for Long-Horizon Earth Observation Reasoning | [閱讀報告](https://arxiv.org/abs/2608.13344) |
-| 🔥 `99/100` | **CityRiSE：基於強化學習驅動之大型視覺語言模型城市社會經濟狀態推理框架** | CityRiSE: Reinforcement Learning-Driven Reasoning for Urban Socio-Economic Status Prediction in Large Vision-Language Models | [閱讀報告](https://arxiv.org/abs/2510.22282) |
-| 🔥 `99/100` | **Unicode 文字水印方法對大型語言模型的安全性与可检测性分析** | Security and Detectability Analysis of Unicode Text Watermarking Methods against Large Language Models | [閱讀報告](https://arxiv.org/abs/2512.13325) |
-| 🔥 `95/100` | **波蘭醫療視覺問答基準揭示視覺語言模型未充分利用視覺證據** | Polish Medical VQA Benchmark Reveals Vision-Language Models Underutilize Visual Evidence | [閱讀報告](https://arxiv.org/abs/2608.12928) |
+| 🔥 `99/100` | **波蘭醫學視覺問答：視覺語言模型對視覺證據利用不足** | Polish Medical Visual Question Answering: Vision-Language Models Underutilize Visual Evidence | [閱讀報告](https://arxiv.org/abs/2608.12928) |
+| 🔥 `99/100` | **大型語言模型數字能力之本質局限與改進路徑：NGF診斷框架與基準分析** | Numeracy Fundamentals in LLMs: Core Limitations, Diagnostic Framework, and Remediation Strategies | [閱讀報告](https://arxiv.org/abs/2608.13129) |
+| 🔥 `99/100` | **LongEarth-R1：基於GRPO對齊的長時序地球觀測視覺-語言模型推理框架** | LongEarth-R1: Reinforced Reasoning for Long-Horizon Earth Observation via GRPO-Based Alignment | [閱讀報告](https://arxiv.org/abs/2608.13344) |
 
 ## 📂 各語言獨立分類專區 (Multi-Language Archives)
 
