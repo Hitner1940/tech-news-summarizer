@@ -11,17 +11,18 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Forensic Breakdown: Abliteration Results, RTX 5060 Ti Deployment Benchmarks, and Community Quant Ecosystem Analysis** | Qwen 3.8 27B 深度核實報告：Abliteration 安全剝離實測、RTX 5060 Ti 部署基準與社群量化工具鏈全景分析 | `5 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Netflix GenRec Forensic Analysis: LLM-Native Recommendation Architecture, Community Validation & Deployment Reality** | Netflix GenRec 深度刑事鑑定分析：LLM 原生推薦架構、社群驗證與部署現實 | `4 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Apple Silicon Inference Fracture: Qwen Hybrid KV-State Gap vs CUDA Maturity — A Forensic Stack Audit (Aug 2026)** | 蘋果神經元推論斷層：Qwen 混合 KV/循環狀態架構在 Apple Silicon 上的生態碎片化與 CUDA 成熟度代差 — 2026 年 8 月整體驗證報告 | `3 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B vs Qwen3.6-27B Agentic Ray-Tracer Writing: Self-Iterative Capability Leap in Community Local Deployments** | Qwen3.8-27B 與 Qwen3.6-27B 撰寫 BASIC 光線追蹤器深度交叉核實：本地社群部署中自主迭代能力的質變躍升 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Forensic Analysis: Google's Hypothetical 120B Dense Multimodal Gemma — Competitive Threat Assessment for OpenAI & Anthropic** | 深度鑑定報告：Google 假想性 120B 密集多模態 Gemma 模型——對 OpenAI 與 Anthropic 的競爭威脅評估 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **GPU Hardware Barrier Analysis: 24GB+ Ownership Scarcity in the Local LLM Community Amid Rising EU Pricing Trends** | 顯卡硬件壁壘深度分析：EU 物價飆升背景下本地 LLM 社群 24GB+ 顯卡保有量稀缺性調查 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **ASUS B860M Dual 32GB Large-BAR GPU Compatibility Forensic Analysis: PCIe Enumeration Failures & Resizable BAR Edge Cases** | ASUS B860M 雙卡 32GB 大 BAR 相容性深度法證分析：PCIe 列舉失敗與可調整 BAR 邊緣案例實測解析 | `2 Verified Sources` |
-| 🛡️ `Grade A (Single Tracked)` | **Forensic Cross-Verification Report: Qwen 3.8 27B Claims — Single Reddit Source Lacks Independent Reproduction** | 法醫交叉核實報告：Qwen 3.8 27B 宣稱——單一 Reddit 來源缺乏獨立復現驗證 | `1 Verified Sources` |
-| 🛡️ `Grade A (Single Tracked)` | **RTX 5090 + Qwen3.8-27b Inference OS Analysis: Linux vs Windows Performance Forensic Brief** | RTX 5090 + Qwen3.8-27b 推論作業系統深度分析：Linux vs Windows 性能交叉核實簡報 | `1 Verified Sources` |
-| 🛡️ `Grade A (Single Tracked)` | **Gemma 4 E4B IQ2_XXS Tensor-Level Quantization: 140.54% Reasoning Recovery at 3.3GB Without Fine-Tuning** | Gemma 4 E4B IQ2_XXS 張量級量化推理性能提升 140.54%：3.3GB 預算無微調精確度重新分配突破 | `1 Verified Sources` |
-| 🛡️ `Grade A (Single Tracked)` | **Qwen 2.5-Coder-32B Emerges as First Locally-Deployable Autonomous Cybersecurity Agent — CTF & Exploit Benchmark Analysis** | Qwen 2.5-Coder-32B 成為首款本地可部署的自主安全代理 — CTF 與漏洞利用基準測試深度解析 | `1 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B MoE Emerges as Local Inference Contender: Intel Arc B140 SYCL Benchmarks, Fable-5 Safety Blocks, and Multi-Hardware Ecosystem Expansion** | Qwen 3.8 27B MoE 登陸本地推理戰場：Intel Arc B140 SYCL 實測、Fable-5 安全防護攔截，跨硬體生態多維擴展 | `9 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Release Forensic Analysis: Benchmark Accuracy, Quantization Viability, and Ablation Controversy Across Community Reproductions** | Qwen3.8-27B 發布深度法醫分析：基準測試準確性、量化可行性與 Ablation 爭議之多源交叉核實 | `5 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Google's Hypothetical 120B Dense Multimodal Gemma: A Forensic Cross-Source Analysis of Strategic Threat to OAI/Anthropic Market Dominance** | Google 潛在 120B 密集多模態 Gemma 模型之深度核實分析：對 OAI/Anthropic 市場壟斷地位之戰略威脅評估 | `4 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Forensic Cross-Verification of Apple Silicon Inference Ecosystem: Gaps in Optimization Stacks and MTP Head Loss in mlx-lm Conversions** | Apple Silicon 推論生態系交叉核實：優化堆疊缺口與 mlx-lm 轉換中 MTP 頭部丟失問題深度報告 | `4 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **The 24GB Cliff: GPU Hardware Fragmentation and Local LLM Adoption Barriers — A Multi-Source Forensic Analysis** | 24GB顯存鴻溝：GPU硬體分層與本地LLM採用壁壘 — 多源交叉核實深度報告 | `3 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B vs Qwen3.6-27B: Community Forensic Benchmark — Autonomous Ray-Tracer Generation Gap in Agentic BASIC-to-JS Pipeline** | Qwen3.8-27B vs Qwen3.6-27B：社群實測深度鑑識報告——自主式代理 BASIC 光線追蹤器生成代差解析 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **ASUS B860M Dual 32GB Large-BAR GPU Platform: Forensic Analysis of Consumer Z890/B860 Multi-GPU Viability for Local LLM Inference** | ASUS B860M 雙卡 32GB Large-BAR 平台深度剖析：消費級 Z890/B860 多卡多 GPU 架構於本地 LLM 推理之可行性與隱患實測 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Forensic Cross-Verification: The Human Cell Atlas for Childhood Development and CRISPR Gender-Reassignment Cloning Advances** | 深度交叉核實：兒童發育人類細胞圖譜計畫與CRISPR性別轉換克隆技術雙軌突破 | `2 Verified Sources` |
+| 🛡️ `Grade A (Single Tracked)` | **RTX 5090 + Qwen3.8-27B: Cross-Platform Inference Benchmarks Reveal Linux vLLM/SGLang Pathway for Peak Throughput** | RTX 5090 + Qwen3.8-27B 跨平台推理基準測試：Linux vLLM/SGLang 實現最佳吞吐量完整技術解析 | `1 Verified Sources` |
+| 🛡️ `Grade A (Single Tracked)` | **Forensic Cross-Verification of Qwen 3.8 27B: Extended Multi-Turn Coding Benchmark (HN/Reddit Reproduction vs. Official Spec Claims)** | 全網交叉核實深度報告：Qwen 3.8 27B 模型 — 長時間多輪編碼測試實錄與官方規格差異分析 | `1 Verified Sources` |
+| 🛡️ `Grade A (Single Tracked)` | **Gemma 4 E4B IQ2_XXS: Forensic Reconstruction of Tensor-Level Quantization Precision Redistribution Achieving 96.7% Reasoning Retention at 3.3GB Budget** | Gemma 4 E4B IQ2_XXS：張量級量化精度重新分配實證——3.3GB預算下96.7%推理能力保留之深度分析 | `1 Verified Sources` |
+| 🛡️ `Grade A (Single Tracked)` | **Qwen 3.8 27B Deep Dive: Cross-Verifying Autonomous CTF Exploitation Claims Against Official Architecture Specs** | Qwen 3.8 27B 深度交叉核實報告：自治 CTF 攻擊能力與官方架構規格驗證 | `1 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
