@@ -2,26 +2,20 @@
 
 > 🌐 Fully automated AI intelligence engine that **cross-references, forensically verifies, and reconstructs** cutting-edge technical breakthroughs across 30+ frontier sources every 4 hours.
 
-[![Substack](https://img.shields.io/badge/Substack-Subscribe%20to%20Newsletter-FF6719?style=for-the-badge&logo=substack)](https://groundtruthai.substack.com)
 [![Status](https://img.shields.io/badge/Status-Active%20Triangulated-brightgreen?style=for-the-badge)](https://github.com/Hitner1940/tech-news-summarizer)
 [![Verification](https://img.shields.io/badge/Verification-Multi--Source%20Triangulated-purple?style=for-the-badge)](#-multi-language-archives-7-dedicated-portals)
 [![Languages](https://img.shields.io/badge/Languages-7%20Supported-blue?style=for-the-badge)](#-multi-language-archives-7-dedicated-portals)
 [![Daily Digest](https://img.shields.io/badge/Daily_Digest-2026-08-16-orange?style=for-the-badge)](daily/2026-08-16.md)
 
-## 📬 Paid Newsletter & Instant Briefings
-
-Get the unvarnished truth on AI model architectures, VRAM footprints, and quantization benchmarks directly in your inbox.
-
-👉 **[Subscribe to 《The Ground Truth AI Dossier》 on Substack](https://groundtruthai.substack.com)**
-
 ## 🔥 Today's Forensically Verified Intelligence Dossiers (2026-08-16)
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Release Analysis: Training-Only Gains, MTP Speculative Decoding, and the 24GB+ Hardware Barrier in Local LLM Adoption** | Qwen3.8-27B 深度架構核實：訓練迭代驅動效能躍升、MTP 內建推測解碼與 24GB+ 顯存硬體門檻之本地化落地挑戰 | `12 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Intel Arc B140 SYCL Inference Build: 64GB VRAM Workstation Deployment Validation Report** | Intel Arc B140 SYCL 推理解構驗證：64GB VRAM 工作站級本地部署實測與生態現狀深度剖析 | `4 Verified Sources` |
-| 🛡️ `Grade A (Single Tracked)` | **GenRec Forensic Audit: Netflix's LLM-Native Recommendation Architecture and Deployment Viability Assessment** | GenRec 深度核實報告：Netflix LLM 原生推薦系統架構與部署可行性全網交叉驗證分析 | `1 Verified Sources` |
-| 🛡️ `Grade A (Single Tracked)` | **Debian Community Votes on AI/LLM Package Integration: Policy Shift and Technical Roadmap** | Debian 社群啟動 AI/LLM 套件整合投票：政策轉型與技術路線深度解析 | `1 Verified Sources` |
+| 🛡️ `Grade AAA (Multi-Source Triangulated)` | **Forensic Comparative Analysis of Qwen3.8-27B vs Qwen3.6-27B: Autonomous BASIC Ray-Tracer Generation and Ecosystem Implications** | Qwen3.8-27B與Qwen3.6-27B的BASIC光線追蹤器生成能力之法醫比較分析：自主迭代與生態影響 | `6 Verified Sources` |
+| 🛡️ `Grade AAA (Multi-Source Triangulated)` | **Claude Watermarking Rollout: User Backlash Over Detection Capabilities** | Claude 水印技術上線：用戶對抗檢測能力引發爭議 | `3 Verified Sources` |
+| 🛡️ `Grade AAA (Multi-Source Triangulated)` | **Kimi-K3 Ported to llama.cpp: Compact MoE Model Targets 8GB VRAM Local Inference** | Kimi-K3 正式匯入 llama.cpp：面向 8GB 顯存的輕量 MoE 推理方案技術分析 | `3 Verified Sources` |
+| 🛡️ `Grade AA (Cross-Domain Verified)` | **GPT-5.6 Sol Ultrafast Mode: Cerebras-Powered 14× Throughput Acceleration and Enterprise Inference Implications** | GPT-5.6 Sol Ultrafast 模式：基於 Cerebras 晶片級算力的 14 倍推理加速與企業級部署影響分析 | `2 Verified Sources` |
+| 🛡️ `Grade AA (Cross-Domain Verified)` | **Anthropic August 2026 Risk Assessment & Apple Silicon Inference Architecture Bottlenecks** | Anthropic 2026年8月風險報告與Apple Silicon推理架構瓶頸深度解析 | `2 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
@@ -35,6 +29,3 @@ Get the unvarnished truth on AI model architectures, VRAM footprints, and quanti
 | 🇫🇷 **French** | [🇫🇷 Archives Françaises (Browse fr/)](https://github.com/Hitner1940/tech-news-summarizer/tree/main/articles/fr) | Synthèse d ingénierie forensique, matrice de vérification croisée et benchmarks |
 | 🇩🇪 **German** | [🇩🇪 Deutsches Archiv (Browse de/)](https://github.com/Hitner1940/tech-news-summarizer/tree/main/articles/de) | Verifizierte technische Dossiers, Spezifikationsvergleiche und Inferenz-Audits |
 
-## ☕ Support & Continuous Verification
-
-Welcome to Star ⭐ this repository to support continuous automated multi-lingual intelligence pipelines!
