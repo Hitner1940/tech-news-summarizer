@@ -11,11 +11,11 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **LLM Ecosystem Snapshot: From Fifth-Grade Limits to Enterprise Integration** | LLM生態全景：從五年級限制到企業整合 | `9 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Recent Local LLM Ecosystem Dynamics: Evolving Models, Geopolitics, and Hardware Upgrade Demand** | 本地LLM生態近期動態：模型持續演進、 geopolitics與硬體升級需求並存 | `7 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Google's Strategic Path to Counter OAI and Anthropic via a 120B Dense Multimodal Gemma Release** | Google 以 120B 稠密多模態 Gemma 模型制衡 OAI 與 Anthropic 的戰略路徑分析 | `5 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Multi-Platform Local LLM Inference Hardware Benchmarks: Intel Arc, Apple Silicon, and NVIDIA Performance Analysis** | 多平台本地LLM推論硬體架構實測分析：Intel Arc、Apple Silicon與NVIDIA效能競逐 | `3 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Release Day: Community Megathread and Resources Roundup** | Qwen 3.8 27B 發布日：官方與社群資源總整理 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **What Happens When an LLM Never Sees Material Beyond Fifth Grade?** | 小學程度訓練資料的LLM：當模型從未接觸五年級以上素材時會發生什麼事？ | `9 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Local LLM Ecosystem in Review: Hardware Upgrades, Model Refinement, and Geopolitical Context** | 本地LLM生態系的多維分析：硬體升級、模型精進與地緣政治交織 | `7 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Google's 120B Dense Multimodal Gemma: A Strategic Open-Weight Move to Challenge OAI/Anthropic Dominance** | Google 120B 稠密多模態 Gemma：挑戰 OAI/Anthropic 主導地位的戰略性開放權重行動 | `5 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Local LLM Inference Hardware Ecosystem: Practical Assessment of Intel Arc, Apple Silicon, and Mid-Range Configurations** | 本地LLM推論硬體生態現況：Intel Arc、Apple Silicon與中階配置的實戰評估 | `3 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Release Day: Community Megathread & Field Report** | Qwen 3.8 27B 發布日：社群整合與實測報告 | `2 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
