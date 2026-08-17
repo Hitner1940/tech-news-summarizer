@@ -11,11 +11,10 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **AI Agent Evaluation, Efficiency, and Governance: Multisource Synthesis Report** | AI智能體評估、效率與治理：多模態合成報告 | `436 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Stripe's $7B OpenRouter Acquisition Stirs Debate as Qwen 3.8 Rises and Open Weights Strategy Reaches a Crossroads** | Stripe收購OpenRouter掀風暴：Qwen 3.8崛起與開源戰略的十字路口 | `9 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Deep Review: Real-World Knowledge and Overthinking as a Double-Edged Sword** | Qwen 3.8 27B 深度評測：現實知識與過度推演的雙面刃 | `3 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Multi-Platform Benchmarks: Strix Halo Unified Memory, RTX 3090 Extreme Throughput, and Reasoning Effort Comparison** | Qwen3.8-27B 多平台部署實測：Strix Halo 統一記憶體、RTX 3090 極速推理與推理效率比較 | `3 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Expected ~30B-Param Local Model by January 2027: Frontier-to-Local Trajectory Analysis** | 300億參數級本地模型預期於2027年1月問世：前沿→本地軌跡預測分析 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Synthesized Analysis of AI Agent Evaluation Reliability, Safety Governance, and Architectural Evolution** | AI代理系統之評估可靠性、安全治理與架構演進之綜合分析 | `436 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 Ecosystem & Local Inference: Stripe's OpenRouter Acquisition, llama.cpp Expansion, and RL Research Breakthroughs** | Qwen 3.8 系列與本地推理生態：Stripe 收購 OpenRouter、llama.cpp 擴展及 RL 研究突破 | `10 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Q8_0 on Strix Halo is Seriously Impressive** | Qwen3.8-27B Q8_0在Strix Halo上表現令人印象深刻 | `3 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Expected ~30B Frontier-Class Local Model by Jan 2027: Architecture Trajectory and Hardware Feasibility Analysis** | 預計2027年1月前推出約30B參數級本地先驅模型：架構演進與硬體可行性分析 | `2 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
