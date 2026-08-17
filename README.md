@@ -11,11 +11,11 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Synthesized Intelligence on Reward-Free Agent Evaluation and Rubric-Induction Frameworks** | 智能體評估獎賞自由評測框架之綜合研判 | `435 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Stripe's $7B+ OpenRouter Acquisition, DeepMind's LLM Novelty Limits, and Qwen 3.8 Performance Leap** | Stripe收購OpenRouter、DeepMind論LLM創新極限與Qwen 3.8性能躍升 | `9 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B on Strix Halo: Multi-Hardware Inference Benchmarks and Ecosystem Impact Analysis** | Qwen3.8-27B 在 Strix Halo 平台的性能驗證：多硬件架構下的推理實測與生態影響分析 | `5 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Deep Review: World Knowledge Recall Reaches Sonnet Tier with Opus Potential** | Qwen 3.8 27B 深度評測：世界知識召回能力達 Sonnet 級，具備 Opus 潛力 | `3 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Petition to Require DAMN Quant Levels in Post Rules** | 請願建議新增規則要求使用者在貼文中標註DAMN量化層級 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Integrated Analysis of Agent Evaluation, Governance, and System Architecture in the LLM Era** | 大語言模型智能體時代的評估、治理與系統架構綜合分析 | `435 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Anthropic Claude Text Watermark Adulteration: A Perversion of Writing and Its Strategic Implications** | Anthropic Claude文本水印污染爭議：寫作本質之顛覆與商業戰略衝擊 | `7 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Stripe's Acquisition of OpenRouter and the Shifting Open-Source AI Landscape: Technical Breakthroughs, Policy Debates, and Community Reflection** | Stripe收購OpenRouter與開源AI戰略格局之變遷：技術突破、政策辯論與社群反思 | `9 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Q8_0 on Strix Halo: Inference Performance and Ecosystem Impact Assessment** | Qwen3.8-27B Q8_0 於 Strix Halo 平台之推理效能與生態系影響綜合研判 | `5 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Deep Review: Exceptional Real-World Knowledge Retrieval, Overthinking Behavior Elevates to Sonnet-Level Performance with Opus Potential** | Qwen 3.8 27B 深度評測：世界知識調用能力卓越，過度推理行為使其達 Sonnet 級性能並具 Opus 潛力 | `3 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
