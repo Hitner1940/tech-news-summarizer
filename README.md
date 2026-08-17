@@ -11,11 +11,11 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Inducing Reward-Free Judging Rubrics to Reduce Over-Crediting in Agent Evaluation** | 誘導式無酬基準評判框架：降低智能體評估中的過度歸功偏差 | `436 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Rise of Qwen 3.8 and Open-Source Strategy: RL Efficiency Breakthrough, OpenRouter Acquisition, and the Decentralization Debate** | Qwen 3.8 系列崛起與開源戰略博弈：RL效率突破、OpenRouter收購與去中心化之爭 | `9 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 Update: 35B Removed, 2.4T Cloud Inference, 27B Local Breakthrough** | Qwen 3.8 系列更新：35B 被移除、2.4T 雲端推論與 27B 本地化突破 | `3 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B: Deep Reasoning Unlocks Exceptional Performance—Bridging Sonnet-Level Output with Opus Potential in Local Deployment** | Qwen 3.8 27B：深度推理觸發卓越性能——從 Sonnet 級躍升至 Opus 潛力之本地模型分析 | `3 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Accelerating Frontier-to-Local Convergence: ~30B Home Model Projection by January 2027** | 前沿到本地模型的加速收斂軌跡：2027年1月前約30B參數量級家用模型預測 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **AI Agent Evaluation, Efficiency, and Governance: Multisource Synthesis Report** | AI智能體評估、效率與治理：多模態合成報告 | `436 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Stripe's $7B OpenRouter Acquisition Stirs Debate as Qwen 3.8 Rises and Open Weights Strategy Reaches a Crossroads** | Stripe收購OpenRouter掀風暴：Qwen 3.8崛起與開源戰略的十字路口 | `9 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Deep Review: Real-World Knowledge and Overthinking as a Double-Edged Sword** | Qwen 3.8 27B 深度評測：現實知識與過度推演的雙面刃 | `3 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Multi-Platform Benchmarks: Strix Halo Unified Memory, RTX 3090 Extreme Throughput, and Reasoning Effort Comparison** | Qwen3.8-27B 多平台部署實測：Strix Halo 統一記憶體、RTX 3090 極速推理與推理效率比較 | `3 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Expected ~30B-Param Local Model by January 2027: Frontier-to-Local Trajectory Analysis** | 300億參數級本地模型預期於2027年1月問世：前沿→本地軌跡預測分析 | `2 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
