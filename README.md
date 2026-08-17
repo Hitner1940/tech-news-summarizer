@@ -11,11 +11,11 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Large Language Model Agent Systems: A 2026 Panoramic Analysis of Evaluation, Governance, and Deployment** | 大型語言模型智能體系統：評估、治理與部署的2026年全景分析 | `435 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Claude Watermarking Controversy Amidst Surging Revenue and IPO Valuation Questions** | Claude 水印污染風波：Anthropic 營收飆升與 IPO 估值背後的爭議 | `7 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 Ecosystem Expansion and Open-Source Governance Debate: From Stripe's OpenRouter Acquisition to New RL Efficiency Evidence** | Qwen 3.8 生態系擴張與開源治理辯論：從 Stripe 收購 OpenRouter 到 RL 效率新證 | `10 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Q8_0 on Strix Halo: A Breakthrough Benchmark for Local Inference Performance** | Qwen3.8-27B Q8_0 於 Strix Halo：當地區別推理性能的突破性能標竿 | `4 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Review: Overthinking Mechanism Reaches Sonnet-Level Performance with Opus Potential** | Qwen 3.8 27B 深度評測：超額思考機制達 Sonnet 等級性能，具備 Opus 級潛力 | `3 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Synthesized Intelligence on Reward-Free Agent Evaluation and Rubric-Induction Frameworks** | 智能體評估獎賞自由評測框架之綜合研判 | `435 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Stripe's $7B+ OpenRouter Acquisition, DeepMind's LLM Novelty Limits, and Qwen 3.8 Performance Leap** | Stripe收購OpenRouter、DeepMind論LLM創新極限與Qwen 3.8性能躍升 | `9 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B on Strix Halo: Multi-Hardware Inference Benchmarks and Ecosystem Impact Analysis** | Qwen3.8-27B 在 Strix Halo 平台的性能驗證：多硬件架構下的推理實測與生態影響分析 | `5 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Deep Review: World Knowledge Recall Reaches Sonnet Tier with Opus Potential** | Qwen 3.8 27B 深度評測：世界知識召回能力達 Sonnet 級，具備 Opus 潛力 | `3 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Petition to Require DAMN Quant Levels in Post Rules** | 請願建議新增規則要求使用者在貼文中標註DAMN量化層級 | `2 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
