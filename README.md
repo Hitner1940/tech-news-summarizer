@@ -11,10 +11,11 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Synthesized Analysis of AI Agent Evaluation Reliability, Safety Governance, and Architectural Evolution** | AI代理系統之評估可靠性、安全治理與架構演進之綜合分析 | `436 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 Ecosystem & Local Inference: Stripe's OpenRouter Acquisition, llama.cpp Expansion, and RL Research Breakthroughs** | Qwen 3.8 系列與本地推理生態：Stripe 收購 OpenRouter、llama.cpp 擴展及 RL 研究突破 | `10 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Q8_0 on Strix Halo is Seriously Impressive** | Qwen3.8-27B Q8_0在Strix Halo上表現令人印象深刻 | `3 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Expected ~30B Frontier-Class Local Model by Jan 2027: Architecture Trajectory and Hardware Feasibility Analysis** | 預計2027年1月前推出約30B參數級本地先驅模型：架構演進與硬體可行性分析 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Large Language Model Agent Systems: A 2026 Panoramic Analysis of Evaluation, Governance, and Deployment** | 大型語言模型智能體系統：評估、治理與部署的2026年全景分析 | `435 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Claude Watermarking Controversy Amidst Surging Revenue and IPO Valuation Questions** | Claude 水印污染風波：Anthropic 營收飆升與 IPO 估值背後的爭議 | `7 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 Ecosystem Expansion and Open-Source Governance Debate: From Stripe's OpenRouter Acquisition to New RL Efficiency Evidence** | Qwen 3.8 生態系擴張與開源治理辯論：從 Stripe 收購 OpenRouter 到 RL 效率新證 | `10 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Q8_0 on Strix Halo: A Breakthrough Benchmark for Local Inference Performance** | Qwen3.8-27B Q8_0 於 Strix Halo：當地區別推理性能的突破性能標竿 | `4 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Review: Overthinking Mechanism Reaches Sonnet-Level Performance with Opus Potential** | Qwen 3.8 27B 深度評測：超額思考機制達 Sonnet 等級性能，具備 Opus 級潛力 | `3 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
