@@ -11,11 +11,11 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Inducing Reward-Free Judging Rubrics to Reduce Over-Crediting in Agent Evaluation** | 誘導式無Reward評判 Rubric：降低代理評估中的過度計分現象 | `435 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Infrastructure Project Backed by Nvidia's $1.5B Investment** | OpenAI 加入 PORTS-Pike 基礎設施項目，Nvidia 豪擲 15 億美元背書 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Dead Robot Friends and the Censorship-Industrial Complex: Moral Dilemmas When Companion AIs Go Dark** | 機器人摯友的終結與「審查產業複合體」：從Moxie停運看AI陪伴的道德困境 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M: Strategic Pivot from AI Chips to NeoCloud Infrastructure** | Groq 融資 3.5 億美元：從 AI 晶片轉向 NeoCloud 的關鍵佈局 | `2 Verified Sources` |
-| 🛡️ `Grade A (Single Tracked)` | **The Defender's Window: How AI Is Reshaping the Cybersecurity Landscape** | 防禦者的窗口：AI如何重塑網路安全攻防格局 | `1 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Frontier Synthesis on Agent Evaluation, Governance, and Efficiency** | 自主智能系統之評估、治理與效率之前沿綜合分析 | `435 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Project for Southern Ohio Expansion** | OpenAI 正式加入 PORTS-Pike 項目前進俄亥俄州南部佈局 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Dead Robot Friends and the "Censorship-Industrial Complex": When a Child's Digital Companion Fades** | 死亡機器人夥伴與「審查工業複合體」：當孩子的數位朋友消逝 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M to Fuel Pivot from AI Chips to Neocloud** | Groq 融資 3.5 億美元，從 AI 晶片轉向新雲端業務 | `2 Verified Sources` |
+| 🛡️ `Grade A (Single Tracked)` | **The Defender's Window: How AI Is Reshaping Cybersecurity** | 防禦者的窗口：AI 重塑網路安全攻防格局 | `1 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
