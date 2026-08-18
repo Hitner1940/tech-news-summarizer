@@ -11,10 +11,11 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Cross-Domain Synthesis of Agent Evaluation and Deployment: From Assessment Trustworthiness to System Governance** | 智能體評估與部署的跨域整理解析：從評估可信度到系統治理 | `435 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Anthropic's Anti-Open Source Strategy, IPO Financial Outlook, and Evolving OpenAI Competitive Landscape** | Anthropic的反開源戰略、IPO財務前景與OpenAI競爭格局演變 | `7 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Project with $1.5B Nvidia Investment for Ohio Infrastructure Expansion** | OpenAI 加入 PORTS-Pike 計畫，Nvidia 投資 15 億美元協助擴充俄亥俄州基礎設施 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M at $3.5B Valuation, Accelerating Pivot to Neocloud** | Groq 募資 3.5 億美元，估值達 35 億美元，加速從 AI 晶片轉型 NeoCloud 業務 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **AI Efficiency and Reliability Synthesis: From FLOPs to Multi-Agent Coordination** | AI效率與可靠性綜合評測：從FLOPs到多智能體協調的實證分析 | `1123 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Anthropic's War on Open Source AI: Watermark Manipulation, IPO Valuation & OpenAI Competitive Landscape** | Anthropic對開源AI的戰略攻勢：水印操控、IPO估值與OpenAI競爭格局 | `7 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Architectural Breakthrough: Index Score Leaps to 52, Tying DeepSeek V4 and GPT-5.6 Luna Max** | Qwen3.8-27B 架構性突破：索引分數躍升52，與DeepSeek V4及GPT-5.6 Luna Max並駕齊驅 | `8 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8 27B Optimal llama.cpp Config for 16GB VRAM: 73k Context & Agentic Coding** | Qwen3.8 27B於16GB VRAM的最佳llama.cpp配置：73k上下文與Agentic編程實踐 | `8 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Initiative with $1.5B NVIDIA Investment for Southern Ohio Data Center** | OpenAI 加入 PORTS-Pike 計畫，NVIDIA 投資 15 億美元支持南俄亥俄數據中心 | `2 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
