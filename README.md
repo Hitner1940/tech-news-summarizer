@@ -11,11 +11,10 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Inducing Reward-Free Judging Rubrics to Reduce Over-Crediting in Agent Evaluation** | 誘導報酬自由評判準則：減少代理評估過度計分 | `435 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Project with $1.5B Nvidia Investment in SoftBank Data Center** | OpenAI 加入 PORTS-Pike 項目，Nvidia 注資 15 億美元支持 SoftBank 數據中心開發 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **When a Child's Robot Best Friend Dies: Emotional Attachment and the Censorship-Industrial Complex** | 當孩子的機器人摯友離世：情感依附與審查工業體系的十字路口 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M at $3.5B Valuation, Pivots from AI Chips to Neocloud** | Groq 融資 3.5 億美元，估值達 35 億美元，從 AI 晶片轉型新雲端業務 | `2 Verified Sources` |
-| 🛡️ `Grade A (Single Tracked)` | **The Defender's Window: AI Reshaping Cybersecurity Offense and Defense** | 防禦者的窗口：AI 重塑網路安全攻防格局 | `1 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Cross-Domain Synthesis of Agent Evaluation and Deployment: From Assessment Trustworthiness to System Governance** | 智能體評估與部署的跨域整理解析：從評估可信度到系統治理 | `435 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Anthropic's Anti-Open Source Strategy, IPO Financial Outlook, and Evolving OpenAI Competitive Landscape** | Anthropic的反開源戰略、IPO財務前景與OpenAI競爭格局演變 | `7 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Project with $1.5B Nvidia Investment for Ohio Infrastructure Expansion** | OpenAI 加入 PORTS-Pike 計畫，Nvidia 投資 15 億美元協助擴充俄亥俄州基礎設施 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M at $3.5B Valuation, Accelerating Pivot to Neocloud** | Groq 募資 3.5 億美元，估值達 35 億美元，加速從 AI 晶片轉型 NeoCloud 業務 | `2 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
