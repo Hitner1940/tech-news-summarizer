@@ -11,11 +11,11 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **LLM Agent Evaluation and Deployment: Multidimensional Advances from Reward-Free Judging to Structural Governance** | 大語言模型智能體評估與部署：從無獎勵評判到結構化治理的多維進展 | `435 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Project with $1.5B Nvidia Investment in SoftBank Data Center** | OpenAI 加入 PORTS-Pike 專案，Nvidia 投資 15 億美元支持軟銀數據中心 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Dead Robot Friends and the Censorship-Industrial Complex: The Fragility of AI Emotional Companions** | 機器人夥伴的終結與「審查產業複合體」：AI情感陪伴的脆弱本質 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M to Fuel Pivot from AI Chips to Neocloud** | Groq 融资 3.5 亿美元，推动从 AI 芯片商向新云服务商转型 | `2 Verified Sources` |
-| 🛡️ `Grade A (Single Tracked)` | **The Defender's Window: How AI Is Reshaping Cybersecurity Offense and Defense** | 防禦者的窗口：AI重塑網路安全攻防格局 | `1 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Inducing Reward-Free Judging Rubrics to Reduce Over-Crediting in Agent Evaluation** | 誘導式無Reward評判 Rubric：降低代理評估中的過度計分現象 | `435 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Infrastructure Project Backed by Nvidia's $1.5B Investment** | OpenAI 加入 PORTS-Pike 基礎設施項目，Nvidia 豪擲 15 億美元背書 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Dead Robot Friends and the Censorship-Industrial Complex: Moral Dilemmas When Companion AIs Go Dark** | 機器人摯友的終結與「審查產業複合體」：從Moxie停運看AI陪伴的道德困境 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M: Strategic Pivot from AI Chips to NeoCloud Infrastructure** | Groq 融資 3.5 億美元：從 AI 晶片轉向 NeoCloud 的關鍵佈局 | `2 Verified Sources` |
+| 🛡️ `Grade A (Single Tracked)` | **The Defender's Window: How AI Is Reshaping the Cybersecurity Landscape** | 防禦者的窗口：AI如何重塑網路安全攻防格局 | `1 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
