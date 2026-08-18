@@ -5,17 +5,17 @@
 [![Status](https://img.shields.io/badge/Status-Active%20Triangulated-brightgreen?style=for-the-badge)](https://github.com/Hitner1940/tech-news-summarizer)
 [![Verification](https://img.shields.io/badge/Verification-Multi--Source%20Triangulated-purple?style=for-the-badge)](#-multi-language-archives-7-dedicated-portals)
 [![Languages](https://img.shields.io/badge/Languages-7%20Supported-blue?style=for-the-badge)](#-multi-language-archives-7-dedicated-portals)
-[![Daily Digest](https://img.shields.io/badge/Daily_Digest-2026-08-17-orange?style=for-the-badge)](daily/2026-08-17.md)
+[![Daily Digest](https://img.shields.io/badge/Daily_Digest-2026-08-18-orange?style=for-the-badge)](daily/2026-08-18.md)
 
-## 🔥 Today's Forensically Verified Intelligence Dossiers (2026-08-17)
+## 🔥 Today's Forensically Verified Intelligence Dossiers (2026-08-18)
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Integrated Analysis of Agent Evaluation, Governance, and System Architecture in the LLM Era** | 大語言模型智能體時代的評估、治理與系統架構綜合分析 | `435 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Anthropic Claude Text Watermark Adulteration: A Perversion of Writing and Its Strategic Implications** | Anthropic Claude文本水印污染爭議：寫作本質之顛覆與商業戰略衝擊 | `7 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Stripe's Acquisition of OpenRouter and the Shifting Open-Source AI Landscape: Technical Breakthroughs, Policy Debates, and Community Reflection** | Stripe收購OpenRouter與開源AI戰略格局之變遷：技術突破、政策辯論與社群反思 | `9 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen3.8-27B Q8_0 on Strix Halo: Inference Performance and Ecosystem Impact Assessment** | Qwen3.8-27B Q8_0 於 Strix Halo 平台之推理效能與生態系影響綜合研判 | `5 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Qwen 3.8 27B Deep Review: Exceptional Real-World Knowledge Retrieval, Overthinking Behavior Elevates to Sonnet-Level Performance with Opus Potential** | Qwen 3.8 27B 深度評測：世界知識調用能力卓越，過度推理行為使其達 Sonnet 級性能並具 Opus 潛力 | `3 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Comprehensive AI Agent Evaluation and Infrastructure Research: From Reward-Free Judging to Multilingual Benchmarks** | 人工智能代理評估與基礎設施綜合研究：從獎勵無效評判到多語言基準 | `435 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Anthropic's Offensive Against Open Source AI: Surging Finances, Infrastructure Pullback, and Strategic Friction** | Anthropic對開源AI的攻勢：財務飆升、基礎設施退縮與戰略衝突 | `7 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Project with $1.5B Nvidia Investment in SoftBank Data Center** | OpenAI 加入 PORTS-Pike 專案，Nvidia 投資 15 億美元支持軟銀數據中心 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **When a Kid's Robot Best Friend Dies: The AI Companionship Industry's Elegy and the Censorship-Industrial Complex** | 當孩子的機器人摯友離世：AI陪伴產業的悲歌與審查機械廠 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M at $3.5B Valuation, Pivots Hard Toward Neocloud** | Groq 融資 3.5 億美元，估值 35 億美元，全力轉型 NeoCloud 業務 | `2 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
