@@ -11,11 +11,11 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Frontier Synthesis on Agent Evaluation, Governance, and Efficiency** | 自主智能系統之評估、治理與效率之前沿綜合分析 | `435 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Project for Southern Ohio Expansion** | OpenAI 正式加入 PORTS-Pike 項目前進俄亥俄州南部佈局 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Dead Robot Friends and the "Censorship-Industrial Complex": When a Child's Digital Companion Fades** | 死亡機器人夥伴與「審查工業複合體」：當孩子的數位朋友消逝 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M to Fuel Pivot from AI Chips to Neocloud** | Groq 融資 3.5 億美元，從 AI 晶片轉向新雲端業務 | `2 Verified Sources` |
-| 🛡️ `Grade A (Single Tracked)` | **The Defender's Window: How AI Is Reshaping Cybersecurity** | 防禦者的窗口：AI 重塑網路安全攻防格局 | `1 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Inducing Reward-Free Judging Rubrics to Reduce Over-Crediting in Agent Evaluation** | 誘導報酬自由評判準則：減少代理評估過度計分 | `435 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Project with $1.5B Nvidia Investment in SoftBank Data Center** | OpenAI 加入 PORTS-Pike 項目，Nvidia 注資 15 億美元支持 SoftBank 數據中心開發 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **When a Child's Robot Best Friend Dies: Emotional Attachment and the Censorship-Industrial Complex** | 當孩子的機器人摯友離世：情感依附與審查工業體系的十字路口 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M at $3.5B Valuation, Pivots from AI Chips to Neocloud** | Groq 融資 3.5 億美元，估值達 35 億美元，從 AI 晶片轉型新雲端業務 | `2 Verified Sources` |
+| 🛡️ `Grade A (Single Tracked)` | **The Defender's Window: AI Reshaping Cybersecurity Offense and Defense** | 防禦者的窗口：AI 重塑網路安全攻防格局 | `1 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
