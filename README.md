@@ -11,11 +11,11 @@
 
 | Verification Grade | Reconstructed Title (English) | Traditional Chinese (繁中) | Cross-Audit Sources |
 | :---: | :--- | :--- | :---: |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Comprehensive AI Agent Evaluation and Infrastructure Research: From Reward-Free Judging to Multilingual Benchmarks** | 人工智能代理評估與基礎設施綜合研究：從獎勵無效評判到多語言基準 | `435 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Anthropic's Offensive Against Open Source AI: Surging Finances, Infrastructure Pullback, and Strategic Friction** | Anthropic對開源AI的攻勢：財務飆升、基礎設施退縮與戰略衝突 | `7 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **LLM Agent Evaluation and Deployment: Multidimensional Advances from Reward-Free Judging to Structural Governance** | 大語言模型智能體評估與部署：從無獎勵評判到結構化治理的多維進展 | `435 Verified Sources` |
 | 🛡️ `Grade A (Multi-Source Tracked)` | **OpenAI Joins PORTS-Pike Project with $1.5B Nvidia Investment in SoftBank Data Center** | OpenAI 加入 PORTS-Pike 專案，Nvidia 投資 15 億美元支持軟銀數據中心 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **When a Kid's Robot Best Friend Dies: The AI Companionship Industry's Elegy and the Censorship-Industrial Complex** | 當孩子的機器人摯友離世：AI陪伴產業的悲歌與審查機械廠 | `2 Verified Sources` |
-| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M at $3.5B Valuation, Pivots Hard Toward Neocloud** | Groq 融資 3.5 億美元，估值 35 億美元，全力轉型 NeoCloud 業務 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Dead Robot Friends and the Censorship-Industrial Complex: The Fragility of AI Emotional Companions** | 機器人夥伴的終結與「審查產業複合體」：AI情感陪伴的脆弱本質 | `2 Verified Sources` |
+| 🛡️ `Grade A (Multi-Source Tracked)` | **Groq Raises $350M to Fuel Pivot from AI Chips to Neocloud** | Groq 融资 3.5 亿美元，推动从 AI 芯片商向新云服务商转型 | `2 Verified Sources` |
+| 🛡️ `Grade A (Single Tracked)` | **The Defender's Window: How AI Is Reshaping Cybersecurity Offense and Defense** | 防禦者的窗口：AI重塑網路安全攻防格局 | `1 Verified Sources` |
 
 ## 📂 Multi-Language Archives (7 Dedicated Portals)
 
